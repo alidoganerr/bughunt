@@ -1,0 +1,5 @@
+{
+  "category": "operator-precedence",
+  "difficulty": 1,
+  "summary": "'and' binds tighter than 'or', so the expression parses as (not blocked and total > 0 and member) or coupon; the coupon bypasses the cart and blocked checks. Parenthesise (is_member or has_coupon)."
+}

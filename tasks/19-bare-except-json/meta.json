@@ -1,0 +1,5 @@
+{
+  "category": "bare-except",
+  "difficulty": 2,
+  "summary": "A bare 'except:' swallows every exception, including the TypeError for non-str input. Catch only json.JSONDecodeError."
+}

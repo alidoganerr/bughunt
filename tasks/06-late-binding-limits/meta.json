@@ -1,0 +1,5 @@
+{
+  "category": "late-binding-closure",
+  "difficulty": 2,
+  "summary": "The lambdas close over the loop variable 'limit', which is looked up when the lambda is called, so every check uses the last limit; bind it with limit=limit."
+}

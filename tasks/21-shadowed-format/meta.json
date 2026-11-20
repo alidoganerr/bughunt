@@ -1,0 +1,5 @@
+{
+  "category": "shadowed-builtin",
+  "difficulty": 2,
+  "summary": "The parameter named 'format' shadows the builtin format(), so format(v, '.1f') in the long branch calls a string and raises TypeError (only when there is at least one value). Use '%.1f' % v or an f-string."
+}

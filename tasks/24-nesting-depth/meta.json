@@ -1,0 +1,5 @@
+{
+  "category": "recursion-base-case",
+  "difficulty": 2,
+  "summary": "max() of an empty generator raises ValueError, so an empty list anywhere in the structure crashes. The empty list needs its own base case (max(..., default=0))."
+}

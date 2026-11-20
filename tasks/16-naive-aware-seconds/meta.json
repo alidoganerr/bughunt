@@ -1,0 +1,5 @@
+{
+  "category": "naive-vs-aware-datetime",
+  "difficulty": 2,
+  "summary": "Subtracting a naive and an aware datetime raises TypeError. Both must be converted to aware UTC first (naive treated as UTC)."
+}

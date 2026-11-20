@@ -1,0 +1,5 @@
+{
+  "category": "identity-vs-equality",
+  "difficulty": 2,
+  "summary": "'is' instead of ==. Works for interned literals, fails for strings built at runtime (split, join)."
+}

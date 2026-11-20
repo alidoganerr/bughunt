@@ -1,0 +1,5 @@
+{
+  "category": "pagination",
+  "difficulty": 2,
+  "summary": "<= instead of < in has_next; wrong when the last page is exactly full."
+}

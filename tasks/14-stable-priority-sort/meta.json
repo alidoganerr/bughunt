@@ -1,0 +1,5 @@
+{
+  "category": "sort-stability",
+  "difficulty": 2,
+  "summary": "Sorting ascending and then reversing also reverses the order of equal items. sorted(..., reverse=True) is stable and keeps ties in input order."
+}

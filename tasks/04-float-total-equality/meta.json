@@ -1,0 +1,5 @@
+{
+  "category": "float-comparison",
+  "difficulty": 1,
+  "summary": "The computed float total is compared with == instead of within a tolerance, so 0.1 + 0.2 does not equal 0.3."
+}

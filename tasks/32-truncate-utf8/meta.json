@@ -1,0 +1,5 @@
+{
+  "category": "bytes-vs-str",
+  "difficulty": 2,
+  "summary": "Cutting the encoded bytes can split a multi-byte character, and errors='replace' turns the partial sequence into U+FFFD instead of dropping it. Decode with errors='ignore' (or step back to a character boundary)."
+}

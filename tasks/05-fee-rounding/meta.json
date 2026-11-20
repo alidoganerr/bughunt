@@ -1,0 +1,5 @@
+{
+  "category": "rounding",
+  "difficulty": 2,
+  "summary": "round() uses banker's rounding (half to even), so 2.5 becomes 2; the spec requires halves to round up, e.g. (amount * percent + 50) // 100."
+}

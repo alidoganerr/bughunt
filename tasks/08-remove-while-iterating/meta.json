@@ -1,0 +1,5 @@
+{
+  "category": "mutation-during-iteration",
+  "difficulty": 2,
+  "summary": "list.remove() while iterating skips the next element, so two negatives in a row leave one behind."
+}

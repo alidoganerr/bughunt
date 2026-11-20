@@ -1,0 +1,5 @@
+{
+  "category": "integer-wraparound",
+  "difficulty": 3,
+  "summary": "Masking with 0xFFFFFFFF gives an unsigned 32-bit result; values >= 2**31 must be converted back to negative by subtracting 2**32."
+}

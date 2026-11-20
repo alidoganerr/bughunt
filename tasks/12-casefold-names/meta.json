@@ -1,0 +1,5 @@
+{
+  "category": "unicode-casefold",
+  "difficulty": 2,
+  "summary": "str.lower() is not full case folding: 'ß'.lower() stays 'ß' while 'SS'.lower() is 'ss'. Use str.casefold() on both sides."
+}

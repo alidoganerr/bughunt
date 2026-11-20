@@ -1,0 +1,5 @@
+{
+  "category": "shallow-copy",
+  "difficulty": 2,
+  "summary": "list(grid) copies only the outer list; the row lists are shared, so assigning into a row also changes the original grid. Copy each row."
+}

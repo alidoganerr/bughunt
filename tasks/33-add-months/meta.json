@@ -1,0 +1,5 @@
+{
+  "category": "month-arithmetic",
+  "difficulty": 3,
+  "summary": "Months are 1-based but divmod needs a 0-based index: total uses d.month instead of d.month - 1, so any result that lands in December gets month 0 (and the wrong year). Subtract 1 before divmod and add 1 after."
+}

@@ -1,0 +1,5 @@
+{
+  "category": "str-strip-misuse",
+  "difficulty": 1,
+  "summary": "lstrip(prefix) strips a set of characters, not a prefix ('preempt' -> 'mpt'). Use startswith + slice."
+}

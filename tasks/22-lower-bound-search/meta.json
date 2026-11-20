@@ -1,0 +1,5 @@
+{
+  "category": "binary-search-bounds",
+  "difficulty": 2,
+  "summary": "hi starts at len(values) - 1 instead of len(values), so len(values) can never be returned."
+}

@@ -1,0 +1,5 @@
+{
+  "category": "sort-key",
+  "difficulty": 1,
+  "summary": "Sorts the strings, so '1.10.0' < '1.2.0'. Key needs to be a tuple of ints."
+}

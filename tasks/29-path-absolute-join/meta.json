@@ -1,0 +1,5 @@
+{
+  "category": "path-join",
+  "difficulty": 2,
+  "summary": "posixpath.join discards everything before an absolute component, so name='/etc/passwd' escapes root. Reject names that start with '/'."
+}

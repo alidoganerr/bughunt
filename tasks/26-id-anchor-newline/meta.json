@@ -1,0 +1,5 @@
+{
+  "category": "regex-anchor",
+  "difficulty": 3,
+  "summary": "'$' also matches just before a trailing newline, so 'AB-1234\\n' is accepted. Use fullmatch() or \\Z."
+}

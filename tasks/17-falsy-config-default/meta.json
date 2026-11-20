@@ -1,0 +1,5 @@
+{
+  "category": "falsy-default",
+  "difficulty": 1,
+  "summary": "Checks truthiness instead of `key in config`, so 0/False/''/[]/None fall back to the default."
+}

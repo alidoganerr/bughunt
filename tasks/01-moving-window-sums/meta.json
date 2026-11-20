@@ -1,0 +1,5 @@
+{
+  "category": "off-by-one",
+  "difficulty": 1,
+  "summary": "range(len(values) - k) should be range(len(values) - k + 1); the last window is dropped."
+}

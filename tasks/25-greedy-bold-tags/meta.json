@@ -1,0 +1,5 @@
+{
+  "category": "regex-greedy",
+  "difficulty": 1,
+  "summary": "Greedy (.*) instead of (.*?): two <b> on one line become one match."
+}

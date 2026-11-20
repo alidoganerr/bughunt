@@ -1,0 +1,5 @@
+{
+  "category": "unicode-combining-marks",
+  "difficulty": 3,
+  "summary": "NFC normalisation only merges marks into letters that have a precomposed form; 'q' + acute stays two code points and a letter with stacked marks can stay 2+. Count code points whose unicodedata.combining() is 0 instead."
+}

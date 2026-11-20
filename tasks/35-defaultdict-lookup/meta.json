@@ -1,0 +1,5 @@
+{
+  "category": "defaultdict-side-effect",
+  "difficulty": 2,
+  "summary": "counts[key] inserts a zero entry into a defaultdict (a read that mutates) and raises KeyError on a plain dict. Use counts.get(key, 0)."
+}

@@ -1,0 +1,5 @@
+{
+  "category": "setdefault-shared-default",
+  "difficulty": 2,
+  "summary": "setdefault() is given one pre-built list for every key, so all groups share the same list object. Create a new [] inside the call (or use defaultdict(list))."
+}

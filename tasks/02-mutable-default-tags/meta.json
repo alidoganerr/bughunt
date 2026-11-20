@@ -1,0 +1,5 @@
+{
+  "category": "mutable-default-argument",
+  "difficulty": 1,
+  "summary": "Mutable default tags=[] shared between calls, and the caller's list gets appended to. Use None and build a new list."
+}

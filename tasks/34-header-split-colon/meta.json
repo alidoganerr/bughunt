@@ -1,0 +1,5 @@
+{
+  "category": "string-split",
+  "difficulty": 1,
+  "summary": "split(':') splits at every colon and only parts[1] is used, so anything after a second colon is silently dropped. Use split(':', 1)."
+}

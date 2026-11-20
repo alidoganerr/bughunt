@@ -1,0 +1,5 @@
+{
+  "category": "early-return",
+  "difficulty": 2,
+  "summary": "'return problems' sits inside the missing-name branch, so the function stops at the first row with a missing name and skips its qty check and all later rows."
+}

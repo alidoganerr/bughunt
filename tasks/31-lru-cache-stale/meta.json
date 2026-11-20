@@ -1,0 +1,5 @@
+{
+  "category": "lru-cache-mutable-state",
+  "difficulty": 3,
+  "summary": "lru_cache on the get() method memoises results keyed by (self, key), but the value depends on mutable state; after set() on a key that was already read, get() returns the stale cached value. Remove the cache (or invalidate it in set())."
+}

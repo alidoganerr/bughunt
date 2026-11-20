@@ -1,0 +1,5 @@
+{
+  "category": "float-summation",
+  "difficulty": 2,
+  "summary": "Adding floats one at a time accumulates rounding error (0.1 ten times is 0.9999999999999999) and loses small terms next to large ones. math.fsum gives the correctly rounded sum."
+}

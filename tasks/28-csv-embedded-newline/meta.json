@@ -1,0 +1,5 @@
+{
+  "category": "csv-parsing",
+  "difficulty": 3,
+  "summary": "text.splitlines() strips the line breaks before csv.reader sees them, so a newline inside a quoted field is lost ('x\\ny' becomes 'xy'). Feed csv.reader io.StringIO(text, newline='') so the breaks survive."
+}
