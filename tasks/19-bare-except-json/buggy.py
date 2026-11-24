@@ -1,5 +1,3 @@
-"""Loading user-supplied configuration."""
-
 import json
 
 

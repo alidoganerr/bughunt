@@ -1,5 +1,3 @@
-"""Safe locations for user uploads."""
-
 import posixpath
 
 

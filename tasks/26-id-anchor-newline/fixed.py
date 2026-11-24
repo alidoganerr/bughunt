@@ -1,5 +1,3 @@
-"""Validation for ids typed into a form field."""
-
 import re
 
 ID_PATTERN = re.compile(r"[A-Z]{2}-[0-9]{4}")

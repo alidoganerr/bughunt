@@ -1,5 +1,3 @@
-"""In-memory settings."""
-
 from functools import lru_cache
 
 

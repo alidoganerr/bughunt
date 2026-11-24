@@ -1,6 +1,3 @@
-"""Threshold checks for a monitoring script."""
-
-
 def build_checks(limits):
     """Return {name: check}; check(value) is True when value <= that limit."""
     checks = {}

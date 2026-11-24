@@ -1,6 +1,3 @@
-"""Rolling totals for a metrics page."""
-
-
 def moving_sums(values, k):
     """Sum of each run of k consecutive values."""
     if k < 1:

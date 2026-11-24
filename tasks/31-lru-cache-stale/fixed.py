@@ -1,6 +1,3 @@
-"""In-memory settings."""
-
-
 class Settings:
     def __init__(self, values=None):
         self._values = dict(values or {})

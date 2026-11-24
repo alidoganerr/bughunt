@@ -1,6 +1,3 @@
-"""Ordering for a to-do list."""
-
-
 def order_tasks(tasks):
     """Highest priority first.
 

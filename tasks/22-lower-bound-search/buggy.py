@@ -1,6 +1,3 @@
-"""Search helpers for sorted data."""
-
-
 def lower_bound(values, target):
     """Index of the first item >= target in a sorted list."""
     lo, hi = 0, len(values) - 1

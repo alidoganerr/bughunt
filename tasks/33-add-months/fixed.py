@@ -1,5 +1,3 @@
-"""Calendar arithmetic for a billing schedule."""
-
 import calendar
 from datetime import date
 
