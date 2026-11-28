@@ -1,6 +1,6 @@
 # bughunt
 
-36 small Python debugging exercises. I wanted bug-fixing tasks where the bug is the kind that gets through code review, plus a script that grades fixes and checks that the tasks themselves are sound.
+36 small Python debugging exercises. Each has one bug of the kind that is easy to miss when reading code, plus a script that grades fixes and checks that the tasks themselves are sound.
 
 Every task is a short module (8 to 40 lines) with one bug, a spec, the fixed version and a unittest file. Most of the tests pass on the buggy code. Only the standard library is used; Python 3.9+.
 
@@ -107,4 +107,4 @@ python3 -m unittest -v
 
 This tests the runner (`test_run.py`), not the tasks. Takes about a minute.
 
-Ali Doğaner. MIT licensed.
+MIT licensed.
